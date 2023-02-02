@@ -112,6 +112,26 @@ public class Reservation {
     this.employee_id = employee_id;
   }
 
+  public void setReservation_id(int reservation_id) {
+    this.reservation_id = reservation_id;
+  }
+
+  public void setPickup_time(Time pickup_time) {
+    this.pickup_time = pickup_time;
+  }
+
+  public void setReturn_time(Time return_time) {
+    this.return_time = return_time;
+  }
+
+  public void setReservation_payment(double reservation_payment) {
+    this.reservation_payment = reservation_payment;
+  }
+
+  public void setReservation_comment(String reservation_comment) {
+    this.reservation_comment = reservation_comment;
+  }
+
   @Override
   public String toString() {
     return "Reservation{" +

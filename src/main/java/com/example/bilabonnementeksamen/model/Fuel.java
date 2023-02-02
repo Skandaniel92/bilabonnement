@@ -28,4 +28,6 @@ public class Fuel {
   public void setDistance_unit(String distance_unit) {
     this.distance_unit = distance_unit;
   }
+
+
 }

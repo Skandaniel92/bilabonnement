@@ -34,4 +34,25 @@ public class Problem {
   }
 
 
+  public void setProblem_id(int problem_id) {
+    this.problem_id = problem_id;
+  }
+
+  public void setProblem_type(String problem_type) {
+    this.problem_type = problem_type;
+  }
+
+  public void setProblem_description(String problem_description) {
+    this.problem_description = problem_description;
+  }
+
+  public void setProblem_price(double problem_price) {
+    this.problem_price = problem_price;
+  }
+
+  public void setReport_id(int report_id) {
+    this.report_id = report_id;
+  }
+
+
 }

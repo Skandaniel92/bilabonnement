@@ -71,7 +71,7 @@ VALUES
 /* nr 13 */ ('Peugeot', '208 Active ML', 75, 'Benzin', 'Manuelt', 122, 'A+', 18.9, 'Kommer bl.a. med 15" fælge, LED kørelys og fartpilot m. fartbegrænser'),
 /* nr 14 */('Peugeot', '2008 Active Pack ML', 130, 'Benzin', 'Manuelt', 127, 'A+', 17.9, 'Kommer med Bakkamera, Adaptiv fartpilot og Apple CarPlay.'),
 /* nr 15 */ ('Peugeot', '2008 Allure Pack ML', 130, 'Benzin', 'Manuelt', 136, 'A+', 17.9, 'Kommer bl.a. med Adaptiv fartpilot, aut. klimaanlæg og p-sensor'),
-/* nr 16 */ ('Peugeot', '3008 GT ML', 130, 'Benzin', 'Automatgear', 136, 'A+', 15.4, 'Kommer bl.a. med Driver Assistance Pack, 3D navigation med 10" skærm og Full LED forlygter'),
+/* nr 16 */ ('Peugeot', '3008 GT ML', 130, 'Benzin', 'Automatgear', 136, 'A+', 15.4, 'Kommer bl.a. med Driver Assistance Pack, 3D navigation med 10" skærm og Full LED forlygter');
 
 
 

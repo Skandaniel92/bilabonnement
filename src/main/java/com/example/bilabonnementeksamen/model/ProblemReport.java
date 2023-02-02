@@ -65,5 +65,11 @@ public class ProblemReport {
     this.customer = customer;
   }
 
+  public void setReport_id(int report_id) {
+    this.report_id = report_id;
+  }
 
+  public void setTotal_price(double total_price) {
+    this.total_price = total_price;
+  }
 }
